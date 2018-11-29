@@ -7,7 +7,7 @@ Course website for BIOM 262 Winter 2019
 | Week | Date | Topic | Lecturer | Links | Homework |
 |----------|----------|-------|------- |------|------|
 |0 | Before 01/04/2019 | **Module 0: Pre-Class Setup**| You |  | [Generate SSH Keys](https://github.com/biom262/biom262-2019/tree/master/Module_0) |
-| 1 | 01/04/2019 | **Module 1: Unix, TSCC, Jupyter** | Patrick Fiaux | TBA | None |
+| 1 | 01/08/2019 | **Module 1: Unix, TSCC, Jupyter** | Patrick Fiaux | TBA | None |
 | 2 | 01/15/2019 | **Module 2: Intro to R** | Patrick Fiaux | TBA | TBA |
 | 3 | 01/22/2019 | **Module 3: Statistics** | Scott Rifkin | TBA | TBA |
 | 4 | 01/29/2019 | **Module 4: Single Cell Analysis** | Robert Morey | TBA | TBA |
