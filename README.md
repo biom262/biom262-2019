@@ -11,8 +11,8 @@ Course website for BIOM 262 Winter 2019
 | 2 | 01/15/2019 | **Module 2: Intro to R** | Patrick Fiaux | TBA | TBA |
 | 3 | 01/22/2019 | **Module 3: Statistics** | Scott Rifkin | TBA | TBA |
 | 4 | 01/29/2019 | **Module 4: Single Cell Analysis** | Robert Morey | TBA | TBA |
-| 5 | 02/05/2019 | **Module 5: ChIP Binding** | Alon Goren | TBA | TBA |
-| 6 | 02/12/2019 | **Module 5: ChIP Binding** | Alon Goren | TBA | TBA |
+| 5 | 02/05/2019 | **Module 5: ChIP-seq & chromatin** | Alon Goren | TBA | TBA |
+| 6 | 02/12/2019 | **Module 5: ChIP-seq & chromatin** | Alon Goren | TBA | TBA |
 | 7 | 02/19/2019 | **Module 6: Networks** | Hannah Carter | TBA | TBA |
 | 8 | 02/26/2019 | **Module 7: GWAS** | Graham McVicker | TBA | TBA |
 | 9 | 03/05/2019 | **Module 8: Population Genetics** | Nicholas Schork <br> Ondrej Libiger | TBA | TBA |
