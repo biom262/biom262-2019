@@ -1,5 +1,5 @@
-# biom262-2019
-Course website for BIOM 262 Winter 2019
+# CMM262-2019
+Course website for CMM 262 Winter 2019
 
 [Syllabus](https://github.com/biom262/biom262-2019/blob/master/BIOM262_Syllabus-2019.ipynb)
 
