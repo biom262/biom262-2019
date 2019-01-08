@@ -1,5 +1,9 @@
 # CMM262-2019
-Course website for CMM 262 Winter 2019
+Course website for BIOM/CMM 262 Winter 2019
+
+**Location:** Sanford Consortium for Regenerative Medicine (SCRM) 1013A+B   
+**Time:** Tues & Thur 9AM - 12PM
+
 
 [Syllabus](https://github.com/biom262/biom262-2019/blob/master/BIOM262_Syllabus-2019.ipynb)
 
