@@ -200,7 +200,7 @@ abline(v = real.diff, col = 'red') # creates the vertical line in red
 Where did we expect the statisitc to be? Is this value likely? We didn't expect the statistic to be either positive or negative. This means we can look to either side and ask what the probability is to see a value as exteme as real.diff or more extreme.
 
 ``` r
-more.extreme <- (null.diff < (-abs(real.diff)) | null.diff > abs(real.diff))
+more.extreme <- (null.diff < (mean(null.diff) -abs(real.diff)) | null.diff > (mean(null.diff) + abs(real.diff)))
 head(more.extreme)
 ```
 
